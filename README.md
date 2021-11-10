@@ -1,4 +1,4 @@
-# geo-image
+# fire-detection
 
 #README
 
